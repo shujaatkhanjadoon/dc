@@ -1,0 +1,14 @@
+DATABASE_URL="mongodb+srv://airbnb:airbnb@cluster0.bdng7kk.mongodb.net/discordc"
+
+CLERK_SECRET_KEY=sk_test_Xyhhwl9fHwpXMavumnc1vkksnjzumByhpSsD1RpTwv
+; database_url='mysql://s3nmj4fatrlyxo3ddybb:pscale_pw_ykkxhgld8jmuagymlenlgk5mexazby8i5kcexwlle16@aws.connect.psdb.cloud/discord-clone?sslaccept=strict'
+LIVEKIT_API_KEY=APIGPt5wciNPnJp
+LIVEKIT_API_SECRET=nSRO10nrOWbzyYGon5fEUV9hRR3OYZw6omhqtD194NL
+NEXT_PUBLIC_CLERK_AFTER_SIGN_IN_URL=/
+NEXT_PUBLIC_CLERK_AFTER_SIGN_UP_URL=/
+NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=pk_test_ZW1pbmVudC1ld2UtODcuY2xlcmsuYWNjb3VudHMuZGV2JA
+NEXT_PUBLIC_CLERK_SIGN_IN_URL=/sign-in
+NEXT_PUBLIC_CLERK_SIGN_UP_URL=/sign-up
+NEXT_PUBLIC_LIVEKIT_URL=wss://discord-clone-pq8r9k4s.livekit.cloud
+UPLOADTHING_APP_ID=f63jlh9f47
+UPLOADTHING_SECRET=sk_live_60f603efaedca4273d53f9612621f183cb30f26b90a54be4ba748a2c219a2e1e
